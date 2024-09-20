@@ -11,7 +11,7 @@
     </header>
 
     <x-display-message></x-display-message>
-    <x-display-error></x-display-error>
+    <x-display-errors></x-display-errors>
 
 
     <div class="container">
